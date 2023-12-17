@@ -1,0 +1,16 @@
+{
+  "name": "rastgele",
+  "version": "0.0.1",
+  "description": "emoji botudur",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": ".the_sao_official.",
+  "license": "ISC",
+  "dependencies": {
+    "@vladfrangu/async_event_emitter": "^2.2.4",
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1"
+  }
+}
